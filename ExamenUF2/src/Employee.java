@@ -12,7 +12,8 @@ public class Employee {
    public String getName() {
       return myName;
    }
-
+   
+   //et reorna el salari
    public double getSalary() {
       return mySalary;
    }
